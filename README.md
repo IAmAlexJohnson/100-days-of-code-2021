@@ -23,11 +23,11 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 ## My Completed Projects List
 
-| No | Project Title | Completed On | CodePen |
-| :-: | :-------------------------: | :----------: | [fcc: tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR): |
-| 01 | Tribute Page - freeCodeCamp | ------------ | ------------ |
-| 02 | ------------ | ------------ | ------------ |
-| 03 | ------------ | ------------ | ------------ |
+| No  |        Project Title        |  Completed On  |                               CodePen                               |
+| :-: | :-------------------------: | :------------: | :-----------------------------------------------------------------: |
+| 01  | Tribute Page - freeCodeCamp | May 25th, 2021 | [fcc: tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR) |
+| 02  |        ------------         |  ------------  |                            ------------                             |
+| 03  |        ------------         |  ------------  |                            ------------                             |
 
 ## Completed Courses
 
