@@ -23,11 +23,11 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 ## My Completed Projects List
 
-| No  |        Project Title        | Completed On |   CodePen    |
-| :-: | :-------------------------: | :----------: | :----------: |
-| 01  | Tribute Page - freeCodeCamp | ------------ | ------------ |
-| 02  |        ------------         | ------------ | ------------ |
-| 03  |        ------------         | ------------ | ------------ |
+| No | Project Title | Completed On | CodePen |
+| :-: | :-------------------------: | :----------: | [fcc: tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR): |
+| 01 | Tribute Page - freeCodeCamp | ------------ | ------------ |
+| 02 | ------------ | ------------ | ------------ |
+| 03 | ------------ | ------------ | ------------ |
 
 ## Completed Courses
 
@@ -49,7 +49,27 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 **Today's Progress/What I learned**:
 
-- Started and mostly completed freeCodeCamp's tribute page []()
+- Started and mostly completed freeCodeCamp's [tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR) for Vasculitis.
+
+**Link to work:**
+
+- [tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR)
+
+### Day 1: May 25th, 2021, Tuesday
+
+**Today's Progress/What I learned**:
+
+- ...
+
+**Link to work:**
+
+- []()
+
+### Day 2: May 26th, 2021, Wednesday
+
+**Today's Progress/What I learned**:
+
+- ...
 
 **Link to work:**
 
