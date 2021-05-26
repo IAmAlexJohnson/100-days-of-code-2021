@@ -23,13 +23,13 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 ## My Completed Projects List
 
-| No  |        Project Title        |  Completed On  |                               CodePen                               |
-| :-: | :-------------------------: | :------------: | :-----------------------------------------------------------------: |
-| 01  | Tribute Page - freeCodeCamp | May 25th, 2021 | [FCC: Tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR) |
-| 02  | Survey Form - freeCodeCamp  | May 25th, 2021 | [FCC: Survey Form](https://codepen.io/IAmAlexJohnson/full/ExWXpow)  |
-| 03  |        ------------         |  ------------  |                            ------------                             |
-| 04  |        ------------         |  ------------  |                            ------------                             |
-| 05  |        ------------         |  ------------  |                            ------------                             |
+| No  |                        Project Title                         |  Completed On  |                               CodePen                               |
+| :-: | :----------------------------------------------------------: | :------------: | :-----------------------------------------------------------------: |
+| 01  |                 Tribute Page - freeCodeCamp                  | May 25th, 2021 | [FCC: Tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR) |
+| 02  |                  Survey Form - freeCodeCamp                  | May 25th, 2021 | [FCC: Survey Form](https://codepen.io/IAmAlexJohnson/full/ExWXpow)  |
+| 03  | Product Landing Page - freeCodeCamp - Frontend Mentor Design |  ------------  | [FCC: Landing Page](https://codepen.io/IAmAlexJohnson/full/NWpvrgQ) |
+| 04  |                         ------------                         |  ------------  |                            ------------                             |
+| 05  |                         ------------                         |  ------------  |                            ------------                             |
 
 ## Completed Courses
 
@@ -73,8 +73,9 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 **Today's Progress/What I learned**:
 
-- ...
+- Got a quick refresher on NPM, Sass, live-server, and mobile-first design.
+- Started my landing page for freeCodeCamp using a design from [Frontend Mentor](https://www.frontendmentor.io/)
 
 **Link to work:**
 
-- []()
+- [Landing Page](https://codepen.io/IAmAlexJohnson/full/NWpvrgQ)
