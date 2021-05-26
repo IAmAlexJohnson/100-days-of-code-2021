@@ -25,16 +25,18 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 | No  |        Project Title        |  Completed On  |                               CodePen                               |
 | :-: | :-------------------------: | :------------: | :-----------------------------------------------------------------: |
-| 01  | Tribute Page - freeCodeCamp | May 25th, 2021 | [fcc: tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR) |
-| 02  |        ------------         |  ------------  |                            ------------                             |
+| 01  | Tribute Page - freeCodeCamp | May 25th, 2021 | [FCC: Tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR) |
+| 02  | Survey Form - freeCodeCamp  | May 25th, 2021 | [FCC: Survey Form](https://codepen.io/IAmAlexJohnson/full/ExWXpow)  |
 | 03  |        ------------         |  ------------  |                            ------------                             |
+| 04  |        ------------         |  ------------  |                            ------------                             |
+| 05  |        ------------         |  ------------  |                            ------------                             |
 
 ## Completed Courses
 
-| No  | Course Title | Completed On |
-| :-: | :----------: | :----------: |
-| 01  | ------------ | ------------ |
-| 02  | ------------ | ------------ |
+| No  |                                                             Course Title                                                              | Completed On |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+| 01  | [Advanced CSS and Sass: Flexbox, Grid, Animations and More! - Jonas Schmedtmann](https://www.udemy.com/course/advanced-css-and-sass/) | ------------ |
+| 02  |                                                             ------------                                                              | ------------ |
 
 ## Completed Books
 
@@ -53,17 +55,19 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 **Link to work:**
 
-- [tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR)
+- [Tribute Page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR)
 
 ### Day 1: May 25th, 2021, Tuesday
 
 **Today's Progress/What I learned**:
 
-- ...
+- Finished my tribute page.
+- Started and finished my survey form.
+- Started Advanced CSS and Sass Course.
 
 **Link to work:**
 
-- []()
+- [Survey Form](https://codepen.io/IAmAlexJohnson/full/ExWXpow)
 
 ### Day 2: May 26th, 2021, Wednesday
 
