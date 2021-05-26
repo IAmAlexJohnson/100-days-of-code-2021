@@ -19,7 +19,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 - Gain a deeper understanding of HTML, CSS, JS, jQuery, Responsive design, PHP, WordPress, and MySQL
 - Make some real world projects for my Portfolio
 - Launch my Portfolio
-- Get a coding Job
+- **Get a coding Job**
 
 ## My Completed Projects List
 
