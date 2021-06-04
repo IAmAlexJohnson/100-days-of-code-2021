@@ -10,26 +10,89 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 |   Start Date   |   End Date    |
 | :------------: | :-----------: |
-| May 24th, 2021 | IN PROGESS... |
+| June 4th, 2021 | IN PROGESS... |
 
 ## My Coding Goals
 
-- Continue to code daily
-- Find my Niche
-- Gain a deeper understanding of HTML, CSS, JS, jQuery, Responsive design, PHP, WordPress, and MySQL
-- Make some real world projects for my Portfolio
-- Launch my Portfolio
-- **Get a coding Job**
+- [ ] Continue to code daily
+- [ ] Make some real world projects for my Portfolio
+- [ ] Launch my Portfolio
+- [ ] **Get a coding Job**
+
+#### Gain a deeper understanding:
+
+- [ ] HTTP
+- [ ] DNS
+- [ ] Version Control Systems
+- [ ] GitHub
+- [ ] npm scripts
+- [ ] Webpack
+
+##### HTML:
+
+- [ ] Semantic HTML
+- [ ] Forms and Validations
+- [ ] Conventions and best practices
+- [ ] Accessibility
+- [ ] SEO Basics
+- [ ] Templates
+- [ ] Custom elements
+
+##### CSS:
+
+- [ ] Floats
+- [ ] Positioning
+- [ ] Display
+- [ ] Box Model
+- [ ] CSS Grid
+- [ ] Flex Box
+- [ ] Responsive Design & Media Queries
+- [ ] BEM
+- [ ] SASS
+- [ ] Styled Components
+- [ ] CSS Modules
+- [ ] Styled JSX
+- [ ] Emotion
+- [ ] Bootstrap
+
+##### JavaScript:
+
+- [ ] Syntax & Basic Constructs
+- [ ] Dom Manipulation
+- [ ] Fetch API / Ajax (XHR)
+- [ ] ES6+ & Modular JavaScript
+- [ ] Understand the concepts: Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, strict
+- [ ] React.js
+- [ ] Redux
+- [ ] Reactstrap
+- [ ] Material UI
+
+##### Package Managers:
+
+- [ ] NPM
+- [ ] Yarn
+- [ ] HTTPS
+
+##### Web Security Knowledge:
+
+- [ ] Content Security Policy
+- [ ] CORS
+- [ ] OWASP Security Risks
+
+##### Linters and Formatters:
+
+- [ ] Prettier
+- [ ] ESLint
 
 ## My Completed Projects List
 
-| No  |                        Project Title                         |  Completed On  |                               CodePen                               |
-| :-: | :----------------------------------------------------------: | :------------: | :-----------------------------------------------------------------: |
-| 01  |                 Tribute Page - freeCodeCamp                  | May 25th, 2021 | [FCC: Tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR) |
-| 02  |                  Survey Form - freeCodeCamp                  | May 25th, 2021 | [FCC: Survey Form](https://codepen.io/IAmAlexJohnson/full/ExWXpow)  |
-| 03  | Product Landing Page - freeCodeCamp - Frontend Mentor Design |  ------------  | [FCC: Landing Page](https://codepen.io/IAmAlexJohnson/full/NWpvrgQ) |
-| 04  |                         ------------                         |  ------------  |                            ------------                             |
-| 05  |                         ------------                         |  ------------  |                            ------------                             |
+| No  |  Project Title  |  Completed On   |     CodePen     |
+| :-: | :-------------: | :-------------: | :-------------: |
+| 01  | --------------- | --------------- | --------------- |
+| 02  | --------------- | --------------- | --------------- |
+| 03  | --------------- | --------------- | --------------- |
+| 04  |  ------------   |  ------------   |  ------------   |
+| 05  |  ------------   |  ------------   |  ------------   |
 
 ## Completed Courses
 
@@ -47,35 +110,26 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 ## Progress Log
 
-### Day 0: May 24th, 2021, Monday
+### Day 0: June 4th, 2021, Friday
 
 **Today's Progress/What I learned**:
 
-- Started and mostly completed freeCodeCamp's [tribute page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR) for Vasculitis.
+- **Link to work:**
 
-**Link to work:**
+-
 
-- [Tribute Page](https://codepen.io/IAmAlexJohnson/full/dyvRWmR)
-
-### Day 1: May 25th, 2021, Tuesday
+### Day 1: June 5th, 2021, Saturday
 
 **Today's Progress/What I learned**:
 
-- Finished my tribute page.
-- Started and finished my survey form.
-- Started Advanced CSS and Sass Course.
+- **Link to work:**
 
-**Link to work:**
+-
 
-- [Survey Form](https://codepen.io/IAmAlexJohnson/full/ExWXpow)
-
-### Day 2: May 26th, 2021, Wednesday
+### Day 2: June 6th, 2021, Sunday
 
 **Today's Progress/What I learned**:
 
-- Got a quick refresher on NPM, Sass, live-server, and mobile-first design.
-- Started my landing page for freeCodeCamp using a design from [Frontend Mentor](https://www.frontendmentor.io/)
+- **Link to work:**
 
-**Link to work:**
-
-- [Landing Page](https://codepen.io/IAmAlexJohnson/full/NWpvrgQ)
+-
