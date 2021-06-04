@@ -1,0 +1,70 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;1,100&display=swap" rel="stylesheet">    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Learning about HTTP</title>
+</head>
+<body>
+
+    <main>
+        <header>
+            <h1>Learning about HTTP <span class="small-heading">- Just code things</span></h1>
+        <div id="btn-box">
+            <button id="intro-btn" class="btn">Intro</button>
+            <button id="http-btn" class="btn">What is HTTP?</button>
+            <button id="http-vs-https-btn" class="btn">HTTP vs HTTPS</button>
+            <button id="requests-btn" class="btn">Requests</button>
+        </div>
+        </header>
+      
+        <section id="intro" class="blurb">
+            <h2>INTRO</h2>
+        </section>
+        <section id="http" class="blurb">
+            <h2>HTTP</h2>
+            <p><span class="u-bold">HTTP &rtrif;</span> <span class="blue-text">Hypertext Transfer Protocol</span></p>
+
+            <p>As a request-response protocol, HTTP gives users a way to interact with web resources such as HTML files by transmitting hypertext messages between clients and servers.</p>
+        </section>
+
+        <section id="http-vs-https" class="blurb">
+            <h2>HTTP vs HTTPS</h2>
+            <p><span class="u-bold">HTTP &rtrif;</span> <span class="blue-text">Hypertext Transfer Protocol</span>    <span class="u-margin-left-sm u-bold">HTTPS &rtrif;</span> <span class="blue-text">Hypertext Transfer Protocol Secure</span></p>
+            <p> <span class="u-bold">HTTPS</span> is <span class="u-bold">HTTP</span> with encryption.</p>
+            
+            <p><span class="u-bold">HTTPS</span> uses 
+                <span class="tooltip">TLS &lpar;SSL&rpar;
+                    <span class="tooltiptext"> <span class="u-bold">TLS:</span> Transport Layer Security <br> <span class="u-bold">SSL:</span> Secure Sockets Layer</span>
+                </span>
+                to encrypt normal <span class="u-bold">HTTP</span> requests and responses.</p>
+   
+        </section>
+
+        <section id="requests" class="blurb">
+            <h2>Requests</h2>
+                <h4>Some <span class="tooltip">common HTTP requests <span class="tooltiptext"><a href="            https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+                    ">Click here for more request methods.</a></span></span> are: </h4>    
+                <ul>
+                    <li> <span class="method u-bold">GET <span class="list-item-hover">The GET method requests a representation of the specified resource. Requests using GET should only retrieve data.</span></span></li>
+                    <li><span class="method u-bold">POST <span class="list-item-hover">The POST method is used to submit an entity to the specified resource, often causing a change in state or side effects on the server.</span></span></li>
+                    <li><span class="method u-bold">PUT <span class="list-item-hover">The PUT method replaces all current representations of the target resource with the request payload.</span></span></li>
+                    <li><span class="method u-bold">DELETE <span class="list-item-hover">The DELETE method deletes the specified resource.</span></span></li>
+                </ul>
+         
+        </section>
+       
+    </main>
+    
+    <footer>
+        <span>Coded and Designed by <a target="_blank" href="https://twitter.com/IAmAlex_Johnson">Alex Johnson.</a></span>
+    </footer>
+</body>
+</html>

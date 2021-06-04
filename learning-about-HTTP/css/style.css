@@ -1,0 +1,207 @@
+:root {
+  /*=== FONTS ===*/
+  --main-font: #333;
+  --blue-font: #2e3cbd;
+  /*=== BORDERS ===*/
+  --blue-border: #0e1a8f;
+  --purple-border: rgb(100, 44, 165);
+  /*=== BUTTONS ===*/
+  --main-btn: rgb(49, 69, 155);
+  --hover-btn: rgb(72, 49, 155);
+  --active-btn: rgb(90, 49, 155);
+}
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  color: var(--main-font);
+  background-color: #e0dede;
+  font-weight: 300;
+  overflow-y: hidden;
+}
+
+main,
+main:before {
+  padding: 2em;
+  margin: 2em auto;
+  background-color: #fff;
+}
+main {
+  border: 2px dashed var(--blue-border);
+  width: 50%;
+  height: 85vh;
+  overflow-y: hidden;
+}
+main:before {
+  width: 51%;
+  height: 87vh;
+  content: " ";
+  position: absolute;
+  z-index: -1;
+  top: -10px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border: 3px solid var(--purple-border);
+}
+
+header {
+  padding: 0 2em;
+  margin-bottom: 2em;
+}
+section {
+  padding: 0 2em;
+}
+
+h1 {
+  font-family: "Oleo Script", cursive;
+  font-size: 3em;
+  text-align: center;
+}
+.small-heading {
+  text-transform: uppercase;
+  font-size: 0.5em;
+}
+/* h2 {
+  text-align: center;
+} */
+h2,
+h4 {
+  margin-bottom: 1em;
+}
+p {
+  line-height: 1.5;
+}
+a {
+  text-decoration: none;
+}
+.blurb {
+  border: 2px dashed var(--purple-border);
+  margin: 2em;
+  padding: 2em;
+}
+/*============ BTN-BOX ==========*/
+.btn {
+  width: 200px;
+  height: 50px;
+  border: none;
+  color: #fff;
+  font-weight: 500;
+}
+#btn-box {
+}
+#btn-box button {
+  background-color: var(--main-btn);
+}
+#btn-box button:hover {
+  cursor: pointer;
+  background-color: var(--hover-btn);
+}
+#btn-box button:active {
+  background-color: var(--active-btn);
+  position: relative;
+  top: 1px;
+}
+
+/*============ REQUESTS ==========*/
+#requests ul {
+  list-style: none;
+  padding-left: 1em;
+}
+#requests ul li {
+  line-height: 2;
+}
+.method {
+  cursor: pointer;
+  margin-left: 0em;
+}
+.list-item-hover {
+  padding-left: 1em;
+  font-size: 0.8em;
+}
+.method .list-item-hover {
+  visibility: hidden;
+  opacity: 0;
+  /* REVIEW visibility vs display */
+  transition: all 0.5s ease-in-out;
+}
+.method:hover {
+  margin-left: 1em;
+  transition: all 0.3s ease-in-out;
+}
+.method:hover .list-item-hover {
+  visibility: visible;
+  opacity: 1;
+}
+
+/*============ FOOTER ==========*/
+footer {
+  text-align: center;
+  font-weight: 500;
+}
+
+/*============ UTILITIES ==========*/
+.u-bold {
+  font-weight: 500;
+}
+.u-margin-left-sm {
+  margin-left: 2em;
+}
+.blurb {
+  margin-top: 1em;
+  margin-left: 2em;
+}
+
+.blue-text {
+  color: var(--blue-font);
+}
+
+.active {
+  visibility: visible;
+}
+.hidden {
+  visibility: hidden;
+}
+
+/*============ TOOLTIP ==========*/
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+.tooltip:hover {
+  cursor: pointer;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 18.75em;
+  font-size: 0.9em;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.tooltiptext a:visited {
+  color: #fff;
+}
+.tooltiptext a:hover {
+  color: #777;
+}

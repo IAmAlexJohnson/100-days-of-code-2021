@@ -54,6 +54,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 - [ ] Styled JSX
 - [ ] Emotion
 - [ ] Bootstrap
+- [ ] Animations
 
 ##### JavaScript:
 
@@ -113,6 +114,13 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 ### Day 0: June 4th, 2021, Friday
 
 **Today's Progress/What I learned**:
+
+- Started watching [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0) by Traversy Media to get started learning about HTTP.
+
+  - HTTP vs HTTPS
+  - HTTP Methods (Get, Post, Put, Delete)
+  - HTTP Status Codes (200, 201, 301, 304, 400, 401, 404, 500)
+  - Learned about Postman
 
 - **Link to work:**
 
