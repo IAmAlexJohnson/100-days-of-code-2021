@@ -10,7 +10,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 |   Start Date   |   End Date    |
 | :------------: | :-----------: |
-| June 4th, 2021 | IN PROGESS... |
+| June 6th, 2021 | IN PROGESS... |
 
 ## My Coding Goals
 
@@ -111,22 +111,17 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 ## Progress Log
 
-### Day 0: June 4th, 2021, Friday
+### Day 0: June 6th, 2021, Friday
 
 **Today's Progress/What I learned**:
 
-- Started watching [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0) by Traversy Media to get started learning about HTTP.
-
-  - HTTP vs HTTPS
-  - HTTP Methods (Get, Post, Put, Delete)
-  - HTTP Status Codes (200, 201, 301, 304, 400, 401, 404, 500)
-  - Learned about Postman
+- -
 
 - **Link to work:**
 
 -
 
-### Day 1: June 5th, 2021, Saturday
+### Day 1: June 7th, 2021, Saturday
 
 **Today's Progress/What I learned**:
 
@@ -134,7 +129,7 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 -
 
-### Day 2: June 6th, 2021, Sunday
+### Day 2: June 8th, 2021, Sunday
 
 **Today's Progress/What I learned**:
 
