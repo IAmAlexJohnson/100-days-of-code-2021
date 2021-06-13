@@ -8,11 +8,11 @@ Creator of #100DaysOfCode [Alexander Kallaway github](https://github.com/Kallawa
 
 I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohnson) and trying to [Tweet Daily](https://twitter.com/IAmAlex_Johnson).
 
-|   Start Date   |   End Date    |
-| :------------: | :-----------: |
-| June 6th, 2021 | IN PROGESS... |
+|   Start Date    |   End Date    |
+| :-------------: | :-----------: |
+| June 13th, 2021 | IN PROGESS... |
 
-## My Coding Goals
+## My Coding Goals (listed in no particular order...)
 
 - [ ] Continue to code daily
 - [ ] Make some real world projects for my Portfolio
@@ -87,13 +87,13 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 ## My Completed Projects List
 
-| No  |  Project Title  |  Completed On   |     CodePen     |
-| :-: | :-------------: | :-------------: | :-------------: |
-| 01  | --------------- | --------------- | --------------- |
-| 02  | --------------- | --------------- | --------------- |
-| 03  | --------------- | --------------- | --------------- |
-| 04  |  ------------   |  ------------   |  ------------   |
-| 05  |  ------------   |  ------------   |  ------------   |
+| No  |                                                    Project Title                                                     |  Completed On   |                            CodePen                             |
+| :-: | :------------------------------------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------------------------: |
+| 01  | [Product Landing Page](https://github.com/IAmAlexJohnson/freeCodeCamp2021/tree/main/responsiveWebDesign/landingPage) | --------------- | [CodePen Link](https://codepen.io/IAmAlexJohnson/full/NWpvrgQ) |
+| 02  |                                                   ---------------                                                    | --------------- |                        ---------------                         |
+| 03  |                                                   ---------------                                                    | --------------- |                        ---------------                         |
+| 04  |                                                     ------------                                                     |  ------------   |                          ------------                          |
+| 05  |                                                     ------------                                                     |  ------------   |                          ------------                          |
 
 ## Completed Courses
 
@@ -111,25 +111,25 @@ I will also be posting some projects to [Codepen](https://codepen.io/IAmAlexJohn
 
 ## Progress Log
 
-### Day 0: June 6th, 2021, Friday
+### Day 0: June 13th, 2021, Friday
 
 **Today's Progress/What I learned**:
 
-- -
+- Worked on my Landing Page for freeCodeCamps Responsive design certificate. Design from [FrontEnd Mentor's](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd/hub/fylo-dark-theme-landing-page-2AStEhiNl)
+
+- **Link to work:**
+
+- [fcc:Landing Page](https://github.com/IAmAlexJohnson/freeCodeCamp2021/tree/main/responsiveWebDesign/landingPage)
+
+### Day 1: June 14th, 2021, Saturday
+
+**Today's Progress/What I learned**:
 
 - **Link to work:**
 
 -
 
-### Day 1: June 7th, 2021, Saturday
-
-**Today's Progress/What I learned**:
-
-- **Link to work:**
-
--
-
-### Day 2: June 8th, 2021, Sunday
+### Day 2: June 15th, 2021, Sunday
 
 **Today's Progress/What I learned**:
 
